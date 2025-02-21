@@ -1,6 +1,18 @@
 <div align="center">
 
-## 🌟 `Responsive Landing Page: A Modern Web Showcase` 🌟
+## 🌟 `Responsive Landing Page: A Modern Web Showcase` 🌟  
+
+
+
+# `AI-Powered Landing Page`
+
+## 🌟 **Live Preview** 🌟
+
+💕 [**AI-Powered Landing Page**](https://landingpage2025.netlify.app/) 💕
+
+🎉 Click to explore the fun and laughter! 😄
+
+
 
 </div>
 
